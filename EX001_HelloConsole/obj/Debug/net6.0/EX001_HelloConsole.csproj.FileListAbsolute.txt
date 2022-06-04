@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\bin\Debug\net6.0\EX001_HelloConsole.exe
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\bin\Debug\net6.0\EX001_HelloConsole.deps.json
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\bin\Debug\net6.0\EX001_HelloConsole.runtimeconfig.json
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\bin\Debug\net6.0\EX001_HelloConsole.dll
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\bin\Debug\net6.0\EX001_HelloConsole.pdb
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\obj\Debug\net6.0\EX001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\obj\Debug\net6.0\EX001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\obj\Debug\net6.0\EX001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\obj\Debug\net6.0\EX001_HelloConsole.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\obj\Debug\net6.0\EX001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\obj\Debug\net6.0\EX001_HelloConsole.dll
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\obj\Debug\net6.0\refint\EX001_HelloConsole.dll
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\obj\Debug\net6.0\EX001_HelloConsole.pdb
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\obj\Debug\net6.0\EX001_HelloConsole.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\PROJECTS\EX001_HelloConsole\obj\Debug\net6.0\ref\EX001_HelloConsole.dll
